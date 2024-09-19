@@ -25,8 +25,8 @@ Los elementos de HTML que va a renderizar el navegador SIEMPRE se encontrarán d
 <h1></h1> etiqueta de HTML utilizada para Títulos-
 
 AÑADIR LOS SIGUIENTES ELEMENTOS 
--Un subtítulo.
--Un sub-subtítulo.
+-Un subtítulo. <h1></h1>
+-Un sub-subtítulo. <h2></h2>
 
 -UN párrafo. Dentro de este párrafo, que una palabra o varias sean enlace a la wikipedia.
 -Otro párrafo y dentro una palabra en negrita y otra en cursiva.
@@ -38,3 +38,6 @@ AÑADIR LOS SIGUIENTES ELEMENTOS
 -Descargar una imagen (jpeg, png o webp) y convertirla en un enlace a un artículo de wikipedia.
 
 -Agrupar 2 de los 3 párrafos anteriores dentro de otro elemento HTML que funcione como contenedor.
+---------------
+
+
